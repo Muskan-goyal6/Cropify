@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319493629678",
+    "firebase_url": "https://cropify-e27ae.firebaseio.com",
+    "project_id": "cropify-e27ae",
+    "storage_bucket": "cropify-e27ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319493629678:android:a59494474e02ba1107f5ff",
+        "android_client_info": {
+          "package_name": "com.example.enkay.cifar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319493629678-6m4uv85ektv8fg1k3g1e02oc9335e3fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.enkay.cifar",
+            "certificate_hash": "75eb8d83d2491aff4e9a475768bfaeadd370012a"
+          }
+        },
+        {
+          "client_id": "319493629678-cdb3dnnanh362ic77ik75hrj4791cml1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB01molOr-HH1O8i7m9yHb3ZaF-jBdsqNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319493629678-cdb3dnnanh362ic77ik75hrj4791cml1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
